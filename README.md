@@ -1,4 +1,4 @@
-# reqbeat-com
+# Reqbeat
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,156 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-reqbeat-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://reqbeat.com/
+Reqbeat provides hiring‑signal monitoring and webhook notifications for GTM engineers. It watches companies or saved searches and posts matching hiring requests to your webhook. Users can pull hiring trends per company over REST, MCP, or a Clay column. The service offers a free API key with no credit card required, and includes documentation, quickstart guides, recipes, and pricing information.
+
+**Areas:** Hiring · Webhooks · GTM · API · Monitoring
+
+## Reqbeat on APIs.io
+
+Everything profiled for Reqbeat is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/reqbeat-com/](https://apis.io/providers/reqbeat-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (18)
+
+- [Reqbeat Account API](https://apis.io/apis/reqbeat-com/reqbeat-com-account-api/) — The Account API from Reqbeat — 2 operation(s) for account.
+- [Reqbeat Attribution API](https://apis.io/apis/reqbeat-com/reqbeat-com-attribution-api/) — The Attribution API from Reqbeat — 1 operation(s) for attribution.
+- [Reqbeat Clay API](https://apis.io/apis/reqbeat-com/reqbeat-com-clay-api/) — The Clay API from Reqbeat — 1 operation(s) for clay.
+- [Reqbeat Companies API](https://apis.io/apis/reqbeat-com/reqbeat-com-companies-api/) — The Companies API from Reqbeat — 11 operation(s) for companies.
+- [Reqbeat Company Events API](https://apis.io/apis/reqbeat-com/reqbeat-com-company-events-api/) — The Company Events API from Reqbeat — 1 operation(s) for company events.
+- [Reqbeat Events API](https://apis.io/apis/reqbeat-com/reqbeat-com-events-api/) — The Events API from Reqbeat — 1 operation(s) for events.
+- [Reqbeat Jobs API](https://apis.io/apis/reqbeat-com/reqbeat-com-jobs-api/) — The Jobs API from Reqbeat — 2 operation(s) for jobs.
+- [Reqbeat Keys API](https://apis.io/apis/reqbeat-com/reqbeat-com-keys-api/) — The Keys API from Reqbeat — 3 operation(s) for keys.
+- [Reqbeat Markets API](https://apis.io/apis/reqbeat-com/reqbeat-com-markets-api/) — The Markets API from Reqbeat — 3 operation(s) for markets.
+- [Reqbeat Migration Import API](https://apis.io/apis/reqbeat-com/reqbeat-com-migration-import-api/) — The Migration Import API from Reqbeat — 1 operation(s) for migration import.
+- [Reqbeat Onboarding API](https://apis.io/apis/reqbeat-com/reqbeat-com-onboarding-api/) — The Onboarding API from Reqbeat — 1 operation(s) for onboarding.
+- [Reqbeat Quickstart API](https://apis.io/apis/reqbeat-com/reqbeat-com-quickstart-api/) — The Quickstart API from Reqbeat — 1 operation(s) for quickstart.
+- [Reqbeat Reqs API](https://apis.io/apis/reqbeat-com/reqbeat-com-reqs-api/) — The Reqs API from Reqbeat — 2 operation(s) for reqs.
+- [Reqbeat Usage API](https://apis.io/apis/reqbeat-com/reqbeat-com-usage-api/) — The Usage API from Reqbeat — 2 operation(s) for usage.
+- [Reqbeat Watches API](https://apis.io/apis/reqbeat-com/reqbeat-com-watches-api/) — The Watches API from Reqbeat — 2 operation(s) for watches.
+- [Reqbeat Webhook Deliveries API](https://apis.io/apis/reqbeat-com/reqbeat-com-webhook-deliveries-api/) — The Webhook Deliveries API from Reqbeat — 3 operation(s) for webhook deliveries.
+- [Reqbeat Webhooks API](https://apis.io/apis/reqbeat-com/reqbeat-com-webhooks-api/) — The Webhooks API from Reqbeat — 1 operation(s) for webhooks.
+- [Reqbeat Whoami API](https://apis.io/apis/reqbeat-com/reqbeat-com-whoami-api/) — The Whoami API from Reqbeat — 1 operation(s) for whoami.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Reqbeat Com Webhooks](https://apis.io/asyncapis/reqbeat-com/reqbeat-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Reqbeat Agentic Access](https://apis.io/agentic-access/reqbeat-com/reqbeat-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [ClayEnrichResponse](https://apis.io/schemas/reqbeat-com/reqbeat-com-clay-enrich-response/)
+- [CompanyMatchResponse](https://apis.io/schemas/reqbeat-com/reqbeat-com-company-match-response/)
+- [CreateWatchRequest](https://apis.io/schemas/reqbeat-com/reqbeat-com-create-watch-request/)
+- [DeliveryLogEntryResponse](https://apis.io/schemas/reqbeat-com/reqbeat-com-delivery-log-entry-response/)
+- [UsageDashboardResponse](https://apis.io/schemas/reqbeat-com/reqbeat-com-usage-dashboard-response/)
+- [WatchResponse](https://apis.io/schemas/reqbeat-com/reqbeat-com-watch-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Reqbeat Com Context](https://apis.io/jsonld/reqbeat-com/reqbeat-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Reqbeat API Rules](https://apis.io/rules/reqbeat-com/reqbeat-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Reqbeat Authentication](https://apis.io/security/reqbeat-com/reqbeat-com-authentication/)
+- [Reqbeat Domain Security](https://apis.io/security/reqbeat-com/reqbeat-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Reqbeat Plans Pricing](https://apis.io/plans/reqbeat-com/reqbeat-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://reqbeat.com/)
+- [Documentation](https://docs.reqbeat.com/docs)
+- [Getting started](https://reqbeat.com/docs)
+- [API reference](https://api.reqbeat.com)
+- [Pricing](https://reqbeat.com/pricing)
+- [Sign up](https://app.reqbeat.com/register?surface=landing&page_slug=home)
+- [Changelog](https://reqbeat.com/changelog)
+- [Blog](https://reqbeat.com/blog/)
+- [Terms of service](https://reqbeat.com/terms)
+- [Privacy policy](https://reqbeat.com/privacy)
+- [GitHub](https://github.com/reqbeat)
+- [Status](https://status.reqbeat.com/status)
+
+## API Evangelist rating
+
+**Kin Score 65.3** — strong · rubric 0.27.0 · scored 2026-11-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 70.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 44.7 |
+| Developer ergonomics | 49.3 |
+| Access clarity | 73.2 |
+
+**Agent readiness 64.1** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/reqbeat-com/](https://apis.io/providers/reqbeat-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Reqbeat: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/reqbeat-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
